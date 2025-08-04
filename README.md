@@ -26,5 +26,9 @@
 
 ---
 
-### ✅ Resultado esperado
+## Resultado esperado
+
 Você verá algo assim no terminal:
+
+![Conexão via EC2](WhatsApp%20Image%202025-08-04%20at%2019.48.06.jpeg)
+
